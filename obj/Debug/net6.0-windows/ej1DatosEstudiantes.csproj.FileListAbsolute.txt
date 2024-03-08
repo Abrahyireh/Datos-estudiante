@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\bin\Debug\net6.0-windows\ej1DatosEstudiantes.exe
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\bin\Debug\net6.0-windows\ej1DatosEstudiantes.deps.json
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\bin\Debug\net6.0-windows\ej1DatosEstudiantes.runtimeconfig.json
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\bin\Debug\net6.0-windows\ej1DatosEstudiantes.dll
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\bin\Debug\net6.0-windows\ej1DatosEstudiantes.pdb
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.Form1.resources
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.AssemblyInfo.cs
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.dll
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\refint\ej1DatosEstudiantes.dll
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.pdb
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ej1DatosEstudiantes.genruntimeconfig.cache
+C:\Users\HP\Desktop\todo\C#-pru\ej1DatosEstudiantes\obj\Debug\net6.0-windows\ref\ej1DatosEstudiantes.dll
